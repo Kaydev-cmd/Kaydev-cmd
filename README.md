@@ -3,4 +3,3 @@ I'm Keamogetse Malau, a frontend software engineer with a passion for building e
 I'm excited to apply my skills in creating seamless digital experiences that meet users’ needs and make an impact!
 
 Tools utilised: 
-https://images.app.goo.gl/zXMWfjE39XisgFAB7
