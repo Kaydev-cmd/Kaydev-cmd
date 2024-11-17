@@ -2,4 +2,5 @@ I'm Keamogetse Malau, a frontend software engineer with a passion for building e
 
 I'm excited to apply my skills in creating seamless digital experiences that meet users’ needs and make an impact!
 
-
+Skills Utilised:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
