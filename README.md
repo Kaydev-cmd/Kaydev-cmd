@@ -4,6 +4,6 @@ I'm excited to apply my skills in creating seamless digital experiences that mee
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,sass,react,figma,git,github"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,sass,react,figma,git,github"/>
   </a>
 </p>
