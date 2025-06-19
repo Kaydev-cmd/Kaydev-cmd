@@ -4,6 +4,6 @@ I'm excited to apply my skills in creating seamless digital experiences that mee
 <p>Portfolio: https://portfolio-site-07xv.onrender.com/</p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,sass,react,nextjs,wordpress,figma,git,github"/>
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,tailwind,bootstrap,sass,react,nextjs,figma,git,github"/>
   </a>
 </p>
